@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Roberta da Silva
 - 👀 Eu sou estudande de Desenvolvimento de Software
-- 🌱 Estudando JavaScript, HTML5, CSS3, Infraestrutura e Metodologias Ágeis(Lean, Kanban, Scrum)
+- 🌱 Estudando Java, HTML5, CSS3,Testing e Metodologias Ágeis(Scrum)
 - 💞️ Estou em busca de emprego
 - 📫 Contato: robertadasilva0114.rds@gmail.com
 
