@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou a Roberta da Silva
-- 👀 Sou estudande de Desenvolvimento de Sistemas
+- 👀 Sou estudante de Desenvolvimento de Sistemas
 - 🌱 Estudando Java,Testing e Metodologias Ágeis(Scrum)
-- 💞️ Estou em busca de emprego
 - 📫 Contato: robertadasilva0114.rds@gmail.com
 
 <!---
